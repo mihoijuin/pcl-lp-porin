@@ -1,4 +1,9 @@
 
+
+.clear{
+  clear: left;
+}
+
 body{
   font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
 }
@@ -38,4 +43,33 @@ body{
 
 .top-images {
   background-color: #D3D3D3;
+}
+
+.main-wrapper{
+  margin-top: 70px;
+  padding: 0 30px;
+}
+
+.main-wrapper h3{
+  font-size: 40px;
+  border-bottom: solid 2px #dee7ec;
+}
+
+.about{
+  margin-bottom: 50px;
+}
+
+.activities{
+  margin-bottom: 50px;
+}
+
+.activities p{
+  width: 25%;
+  float: left;
+  font-size: 20px;
+}
+
+.activity{
+  background-color: #CCCCFF;
+  display: inline-block;
 }

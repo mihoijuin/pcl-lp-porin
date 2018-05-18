@@ -3,33 +3,35 @@
 /* Header */
 .header-container{
   height: 65px;
-  background-color: #FF6666;
+  background-color: #1E90FF;
   padding: 5px;
 }
 
 .header-logo img{
   height: 65px;
   float: left;
-  color: white;
 }
 
 .header-logo p{
   float: left;
   margin-top: 30px;
   color: black;
-  font-weight: bold;
 }
 
 
 /* Main*/
 .top-wrapper{
   height: 200px;
-  background-color: #FDF5E6;
+  background-color: #D3D3D3;
   text-align: center;
-  padding: 50px 0;
+  padding: 40px 0;
   width: 100%;
 }
 
 .top-wrapper h1{
   font-size: 40px;
+}
+
+.top-images {
+  background-color: #D3D3D3;
 }

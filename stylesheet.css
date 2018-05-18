@@ -1,14 +1,17 @@
 
+body{
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
 
 /* Header */
 .header-container{
-  height: 65px;
+  height: 70px;
   background-color: #1E90FF;
   padding: 5px;
 }
 
 .header-logo img{
-  height: 65px;
+  height: 70px;
   float: left;
 }
 
@@ -16,12 +19,13 @@
   float: left;
   margin-top: 30px;
   color: black;
+  font-size: 20px;
 }
 
 
 /* Main*/
 .top-wrapper{
-  height: 200px;
+  height: 250px;
   background-color: #D3D3D3;
   text-align: center;
   padding: 40px 0;

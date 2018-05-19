@@ -83,8 +83,29 @@ body{
 
 .entry{
   background-color: #1E90FF;
+  opacity: 0.8;
 }
 
+.entry:hover{
+  opacity: 1;
+}
+
+.message-wrapper{
+  background-color: #666666;
+  color: white;
+  height: 400px;
+}
+
+.message-container{
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+  padding: 50px 0;
+}
+
+.message-txt{
+  margin-bottom: 30px;
+}
 
 /*Footer*/
 

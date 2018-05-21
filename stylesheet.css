@@ -27,8 +27,8 @@ body{
 
 /* Main*/
 .top-wrapper{
-  height: 250px;
-  background-color: #D3D3D3;
+  height: 200px;
+  background-color: white;
   text-align: center;
   padding: 40px 0;
   width: 100%;
@@ -38,9 +38,6 @@ body{
   font-size: 40px;
 }
 
-.top-images {
-  background-color: #D3D3D3;
-}
 
 .main-wrapper{
   margin-top: 70px;

@@ -30,7 +30,7 @@ body{
   height: 200px;
   background-color: white;
   text-align: center;
-  padding: 40px 0;
+  padding: 60px 0;
   width: 100%;
 }
 
@@ -38,6 +38,9 @@ body{
   font-size: 40px;
 }
 
+.img-container{
+  margin: 0 80px;
+}
 
 .main-wrapper{
   margin-top: 70px;

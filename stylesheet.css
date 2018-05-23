@@ -124,6 +124,12 @@ body{
   float: left;
 }
 
+.copyright{
+  float: right;
+  margin-top: 45px;
+  margin-right: 10px;
+}
+
 .footer-logo p{
   float: left;
   margin-top: 30px;

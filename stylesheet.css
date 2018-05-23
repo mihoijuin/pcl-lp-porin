@@ -48,7 +48,7 @@ body{
 
 .main-wrapper{
   margin-top: 70px;
-  padding: 0 60px;
+  margin: 0 60px;
 }
 
 .main-wrapper h2{
@@ -58,6 +58,7 @@ body{
 
 .container {
   text-align: center;
+  margin: 0 auto;
 }
 
 .about{

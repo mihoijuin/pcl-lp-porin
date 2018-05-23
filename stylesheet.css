@@ -29,15 +29,17 @@ body{
 
 /* Main*/
 .top-wrapper{
-  height: 200px;
+  height: 350px;
   background-color: white;
   text-align: center;
-  padding: 60px 0;
+  padding: 40px 0;
   width: 100%;
 }
 
 .top-wrapper h1{
-  font-size: 40px;
+  font-size: 45px;
+  font-family: "arial unicode ms";
+  margin-bottom: 40px;
 }
 
 .img-container{
@@ -49,7 +51,7 @@ body{
   padding: 0 60px;
 }
 
-.main-wrapper h3{
+.main-wrapper h2{
   font-size: 40px;
   border-bottom: solid 2px #dee7ec;
 }
@@ -66,13 +68,17 @@ body{
   margin-bottom: 50px;
 }
 
-.activities h3{
+.activities h2{
   text-align: right;
 }
 
 .activity-tag p{
   font-size: 20px;
   margin: 30px 0;
+}
+
+.join h3{
+  font-size: 25px;
 }
 
 .btn {

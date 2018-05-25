@@ -1,4 +1,8 @@
 
+*{
+  box-sizing: border-box;
+}
+
 li {
   list-style: none;
 }
@@ -26,14 +30,13 @@ body{
   font-size: 20px;
 }
 
-
 /* Main*/
 .top-wrapper{
-  height: 350px;
   background-color: white;
   text-align: center;
   padding: 40px 0;
   width: 100%;
+  margin: 0 auto;
 }
 
 .top-wrapper h1{
@@ -42,13 +45,15 @@ body{
   margin-bottom: 40px;
 }
 
-.img-container{
-  margin: 0 80px;
-}
 
 .main-wrapper{
+<<<<<<< HEAD:stylesheet.css
   margin-top: 70px;
   margin: 0 60px;
+=======
+  margin-top: 100px;
+  padding: 0 40px;
+>>>>>>> work:css/stylesheet.css
 }
 
 .main-wrapper h2{
@@ -58,24 +63,20 @@ body{
 
 .container {
   text-align: center;
+<<<<<<< HEAD:stylesheet.css
   margin: 0 auto;
 }
 
 .about{
   margin-bottom: 50px;
+=======
+  margin: 70px 0 70px 0;
+>>>>>>> work:css/stylesheet.css
 }
 
-.activities{
-  margin-bottom: 50px;
-}
 
 .activities h2{
   text-align: right;
-}
-
-.activity-tag p{
-  font-size: 20px;
-  margin: 30px 0;
 }
 
 .join h3{
@@ -140,15 +141,15 @@ body{
   float: left;
 }
 
-.copyright{
-  float: right;
-  margin-top: 45px;
-  margin-right: 10px;
-}
-
 .footer-logo p{
   float: left;
   margin-top: 30px;
   color: black;
   font-size: 20px;
+}
+
+.copyright{
+  float: right;
+  margin-top: 45px;
+  margin-right: 10px;
 }

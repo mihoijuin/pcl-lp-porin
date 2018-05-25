@@ -1,7 +1,6 @@
 @media(max-width: 670px){
-
   p{
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .header-logo img{
@@ -17,6 +16,10 @@
     font-size: 40px;
   }
 
+  .container{
+    margin-bottom: 80px;
+  }
+
   .about p{
     text-align: left;
   }
@@ -28,6 +31,10 @@
   .join-conditions{
     text-align: left;
     margin-bottom: 40px;
+  }
+
+  .btn{
+    width: 100%;
   }
 
   .footer-logo img{
@@ -44,5 +51,4 @@
     margin-right: 5px;
     margin-top: 45px;
   }
-
 }

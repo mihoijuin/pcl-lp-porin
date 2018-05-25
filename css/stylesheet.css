@@ -128,15 +128,15 @@ body{
   float: left;
 }
 
-.copyright{
-  float: right;
-  margin-top: 45px;
-  margin-right: 10px;
-}
-
 .footer-logo p{
   float: left;
   margin-top: 30px;
   color: black;
   font-size: 20px;
+}
+
+.copyright{
+  float: right;
+  margin-top: 45px;
+  margin-right: 10px;
 }

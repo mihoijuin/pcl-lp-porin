@@ -33,7 +33,6 @@ body{
 
 /* Main*/
 .top-wrapper{
-  height: 350px;
   background-color: white;
   text-align: center;
   padding: 40px 0;
@@ -46,9 +45,6 @@ body{
   margin-bottom: 40px;
 }
 
-.img-container{
-  margin: 0 80px;
-}
 
 .main-wrapper{
   margin-top: 70px;

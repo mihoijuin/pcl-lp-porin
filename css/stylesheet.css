@@ -30,13 +30,13 @@ body{
   font-size: 20px;
 }
 
-
 /* Main*/
 .top-wrapper{
   background-color: white;
   text-align: center;
   padding: 40px 0;
   width: 100%;
+  margin: 0 auto;
 }
 
 .top-wrapper h1{
@@ -45,6 +45,9 @@ body{
   margin-bottom: 40px;
 }
 
+.top-images{
+  margin-bottom: 90px;
+}
 
 .main-wrapper{
   margin-top: 70px;
@@ -58,24 +61,12 @@ body{
 
 .container {
   text-align: center;
-  margin: 70px 0;
+  margin: 70px 0 70px 0;
 }
 
-.about{
-  margin-bottom: 50px;
-}
-
-.activities{
-  margin-bottom: 50px;
-}
 
 .activities h2{
   text-align: right;
-}
-
-.activity-tag p{
-  font-size: 20px;
-  margin: 30px 0;
 }
 
 .join h3{
